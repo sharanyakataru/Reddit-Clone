@@ -1,8 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2tEDYwzN)
-# Term Project
-
-Add design docs in *images/*
-
 ## Instructions to setup and run project
 1. Clone the repository: git clone <your-repo-url>
 2. Install server dependencies: 
@@ -37,8 +32,7 @@ Add design docs in *images/*
 
 2. **React Test**: To run this test please first make sure the server is launched in a separate terminal instance using `nodemon server.js`. In a different terminal, navigate to the `.\client` folder and run `npm test --watchAll=false` to run the test.
 
-## Team Member 1 Contribution
-Sharanya Kataru
+## Requirements
 - Implemented MongoDB schemas and init.js script
 - Account creation and login/logout functionality
 - Banner and Navbar UI/logic for both guest and registered users
@@ -48,9 +42,6 @@ Sharanya Kataru
 - Post page view for guests and registered users
 - New Community, New Post, and New Comment creation views: Use Cases 15–17
 - React unit test
-
-## Team Member 2 Contribution
-Fahim Jawad
 - Set up client/server structure and welcome page
 - Fixed login, logout, and post formatting layout
 - Fixed voting functionality for posts and comments
